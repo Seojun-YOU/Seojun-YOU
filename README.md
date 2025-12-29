@@ -2,7 +2,7 @@
 ## 💫 About Me:
 🎓 Interested in **Mathematics, Scientific Computing, and Programming**
 
-🧠 Focused on building strong theoretical foundations and practical implementation skills
+🧠 Focused on exploring the realm of mathematics and artificial intelligence
 
 ---
 ## 📐 Mathematics
